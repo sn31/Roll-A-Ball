@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/skye/Documents/Epicodus Projects/Roll-A-Ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
