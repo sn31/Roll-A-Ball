@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{034A7B3F-9680-2361-B6ED-9974A5E12C86}</ProjectGuid>
+    <ProjectGuid>{D51671F0-32E0-3BFF-ED69-1DFDCE56E84D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,20 +61,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\_Completed-Game\Scripts\CameraController.cs" />
-    <Compile Include="Assets\_Completed-Game\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\_Completed-Game\Scripts\Rotator.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/private/var/folders/7t/83p24npj2n1cq40b1r6vfn9m0000gn/T/f40a8bc0a085c4ebaa2408d222da42e6/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/skye/Documents/Epicodus Projects/Roll-A-Ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/private/var/folders/7t/83p24npj2n1cq40b1r6vfn9m0000gn/T/f40a8bc0a085c4ebaa2408d222da42e6/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/skye/Documents/Epicodus Projects/Roll-A-Ball/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/private/var/folders/7t/83p24npj2n1cq40b1r6vfn9m0000gn/T/f40a8bc0a085c4ebaa2408d222da42e6/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/skye/Documents/Epicodus Projects/Roll-A-Ball/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/private/var/folders/7t/83p24npj2n1cq40b1r6vfn9m0000gn/T/f40a8bc0a085c4ebaa2408d222da42e6/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/skye/Documents/Epicodus Projects/Roll-A-Ball/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
